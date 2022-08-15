@@ -1,4 +1,4 @@
-# Coursely
+# Landing-Page
 import '../style/home.scss';
 import Img from '../../image/singer.jpg';
 import './script';
